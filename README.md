@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PCO API Developer Support
 
 Planning Center has an API that allows you to access most of the information about your plans, people, songs, arrangements, etc. Documentation on the available API endpoints is [available here](http://get.planningcenteronline.com/api).
@@ -39,3 +40,7 @@ There are a couple of third party tools to simplify working with the API. While 
 ## Support
 
 If you have any questions or feature requests, post an [issue](https://github.com/ministrycentered/developers/issues). We'll take a look and get back to you asap.
+=======
+# planningCenterOnline
+This is code used to log into the Planning Center Online API
+>>>>>>> 133060f009b85efc3a5df1efd966b957a9bc0aaa
